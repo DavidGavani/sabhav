@@ -1,0 +1,114 @@
+{
+  "hero": 10,
+  "aboutPortrait": 22,
+  "contactImage": 92,
+  "collections": [
+    {
+      "slug": "velvet-evenings",
+      "title": "Velvet Evenings",
+      "kicker": "Evening & Occasion",
+      "description": "Sculpted gowns and cocktail silhouettes in wine, midnight and plum. Corseted bodices, long slits and trains that move with the room.",
+      "cover": 92,
+      "accent": 15,
+      "looks": [10, 21, 22, 15, 92, 6, 62, 68, 41, 64, 129, 51, 125, 124, 133, 76, 90, 7, 95, 84, 117, 46, 113, 29]
+    },
+    {
+      "slug": "bridal-festive",
+      "title": "Bridal & Festive",
+      "kicker": "Lehenga, Saree & Couture",
+      "description": "Heirloom-minded drapes and embellished lehengas, reworked with modern cuts, jewel tones and hand-finished detail.",
+      "cover": 70,
+      "accent": 153,
+      "looks": [70, 174, 163, 49, 63, 52, 153, 58, 66, 137, 128, 96, 162, 94]
+    },
+    {
+      "slug": "garden-hours",
+      "title": "Garden Hours",
+      "kicker": "Day & Resort",
+      "description": "Soft pastels and fluid fabrics for long lunches and golden afternoons. Ruffles, florals and easy movement.",
+      "cover": 47,
+      "accent": 110,
+      "looks": [47, 80, 110, 122, 132, 126, 33, 160, 172, 170, 42, 8, 16, 72, 111, 115, 28, 48, 24, 102, 39, 123, 38, 112, 116, 44]
+    },
+    {
+      "slug": "city-edit",
+      "title": "City Edit",
+      "kicker": "Ready-to-wear",
+      "description": "Modern separates, minis and layers cut for everyday polish. Clean lines, rich colour and pieces that are easy to live in.",
+      "cover": 2,
+      "accent": 18,
+      "looks": [1, 18, 2, 81, 86, 77, 36, 103, 130, 109, 136, 43, 97, 61, 30, 31, 34, 82, 83, 104, 106, 108, 54, 79, 73, 118, 131, 60, 45, 20, 19]
+    }
+  ],
+  "atelier": {
+    "pairs": [
+      {
+        "sketch": 155,
+        "final": 15,
+        "title": "Chocolate Velvet Column",
+        "note": "A strapless velvet column with a crystal-edged diagonal and a sweeping train."
+      },
+      {
+        "sketch": 152,
+        "final": 153,
+        "title": "Plum Lehenga & Wine Dupatta",
+        "note": "Deep violet skirt with a gold-trimmed wine drape worn off the shoulder."
+      },
+      {
+        "sketch": 151,
+        "final": 102,
+        "title": "Ember Tunic & Flared Trousers",
+        "note": "A tiered ember tunic over fuchsia flares, built for movement."
+      },
+      {
+        "sketch": 154,
+        "final": 58,
+        "title": "Rose Drape Set",
+        "note": "A hand-embellished rose drape paired with a saturated fuchsia skirt."
+      },
+      {
+        "sketch": 156,
+        "final": 50,
+        "title": "Orchid Mermaid Gown",
+        "note": "A sweetheart bodice melting into a feather-trimmed mermaid hem."
+      },
+      {
+        "sketch": 158,
+        "final": 160,
+        "title": "Sage Skirt & Rosebud Bodice",
+        "note": "A fluid sage skirt with a floral-appliqué bodice."
+      }
+    ],
+    "boards": [57, 35, 13, 23, 63]
+  },
+  "process": [
+    {
+      "slug": "mood-board",
+      "title": "Mood Board",
+      "kicker": "Direction & atmosphere",
+      "description": "Colour, texture and styling references that set the tone before a silhouette is locked.",
+      "images": [13, 23, 49, 63, 79, 83]
+    },
+    {
+      "slug": "fashion-illustration",
+      "title": "Fashion Illustration",
+      "kicker": "Drawn first",
+      "description": "Croquis and concept drawings where proportion, drape and surface are resolved on paper.",
+      "images": [155, 152, 151, 154, 156, 158, 150, 145, 146, 143, 35, 144]
+    },
+    {
+      "slug": "tech-pack",
+      "title": "Tech Pack",
+      "kicker": "Specification",
+      "description": "Development boards with fabric, trim, colour and accessory callouts for each look.",
+      "images": [57, 13, 23, 49, 63, 83]
+    },
+    {
+      "slug": "pattern-making",
+      "title": "Pattern Making",
+      "kicker": "Cut & construction",
+      "description": "Front and back working views used to clarify seams, volume and construction before cutting.",
+      "images": [0, 3, 8, 16, 17, 31, 34, 67, 69, 85, 87, 89, 99, 108, 111, 112]
+    }
+  ]
+}

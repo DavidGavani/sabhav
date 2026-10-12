@@ -1,0 +1,32 @@
+{
+  "name": "sabhav-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "inspect": "node scripts/inspect-images.mjs",
+    "images": "node scripts/optimize-images.mjs",
+    "logo": "node scripts/build-logo.mjs",
+    "lookbook": "node scripts/lookbook/build.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/jost": "^5.3.0",
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "opentype.js": "^2.0.0",
+    "pdf-lib": "^1.17.1",
+    "playwright-core": "^1.63.0",
+    "sharp": "^0.33.5",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

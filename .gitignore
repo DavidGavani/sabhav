@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+*.log
+scripts/sheets
+scripts/logo-preview.png
+scripts/inspect.json
+scripts/lookbook/pages
+scripts/shots
+ngrok.exe
+# Raw originals (~570MB). Optimized web images live in public/images/
+assets/
